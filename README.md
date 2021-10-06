@@ -1,3 +1,3 @@
-# 10-601 Introduction to ML
+# 10-601 Introduction to ML - Carnegie Mellon University
 
-These are the codes from the homeworks I had in my introduction to machine learning course.  
+A collection of scripts implementing popular ML algorithms without using ML packages (only numpy). 
